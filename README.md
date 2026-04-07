@@ -90,3 +90,6 @@ cp .env.example .env
 ```bash
 python main.py
 ```
+
+## 👾 Demo video
+https://youtu.be/gGs7MIDn7mw
