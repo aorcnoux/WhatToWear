@@ -1,4 +1,5 @@
 # WhatToWear: Interactive Style Recommendation System
+> An interactive, weather-driven outfit recommendation system built with Python.
 
 ## 📖 Overview
 WhatToWear is a Python-based interactive desktop application designed to solve the daily dilemma of choosing an outfit. By integrating real-time regional weather data with user-defined styling preferences, the system autonomously generates dynamic clothing combinations and color palette recommendations. 
@@ -20,6 +21,7 @@ This project demonstrates practical implementations of API consumption, GUI deve
 * **Data Management:** `csv` module for structured outfit database
 * **Environment Management:** `python-dotenv`
 
+---
 ## 📂 Project Architecture
 
 ```text
@@ -90,7 +92,7 @@ cp .env.example .env
 ```bash
 python main.py
 ```
-
+---
 ## 📺 Demo Video
 Click the image below to watch the project demonstration:
 
