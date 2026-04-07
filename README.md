@@ -91,5 +91,9 @@ cp .env.example .env
 python main.py
 ```
 
-## 👾 Demo video
-https://youtu.be/gGs7MIDn7mw
+## 📺 Demo Video
+Click the image below to watch the project demonstration:
+
+[![Watch the video](https://img.youtube.com/vi/gGs7MIDn7mw/0.jpg)](https://youtu.be/gGs7MIDn7mw)
+
+> *The system demonstrates real-time weather fetching and dynamic outfit layering.*
